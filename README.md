@@ -2,12 +2,12 @@
 
 A clean, responsive weather application that displays current weather conditions for any city worldwide.
 
-![Weather App Screenshot]() <!-
+![Weather App Screenshot](https://github.com/shiva-ydv/weather-app/blob/main/Screenshot%202025-05-10%20184328.png) <!-
 
 
 ## Live Demo
 
-[View Live Application](https://check-weather-app1.netlify.app/)-
+[View Live Application](https://check-weather-app1.netlify.app)-
 
 ## Features
 
