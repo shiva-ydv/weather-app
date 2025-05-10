@@ -2,6 +2,8 @@
 
 A clean, responsive weather application that displays current weather conditions for any city worldwide.
 
+App image
+
 ![Weather App Screenshot](https://github.com/shiva-ydv/weather-app/blob/main/Screenshot%202025-05-10%20184328.png) <!-
 
 
